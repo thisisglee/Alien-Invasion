@@ -4,9 +4,12 @@ Arcade game is written in Python 3 and uses Pygame package module with higher or
 ## About the game
 The game initials the space craft to shoot down incoming aliens and the counter keeps score.  If alien encounters and shoots the player then points get deducted. The game is a standard shooter where the player tries to avoid the lasers and fight back and get doubled the points. The AI is well callobrated to make the player is equally challenged. Assert the collaberation of algorithms to make this work. Manipulating Data collected.
 
+## Gameplay
+![](gameplay.gif)
+
 ## Play yourself
 
-1. Click [here](https://github.com/ccoenraets/react-trivia/archive/master.zip) to download the app
+1. Click [here](https://github.com/thisisglee/Alien-Invasion/archive/main.zip) to download the app
 2. Install Python 3 and double click the alien_invasion.py file.
 3. Play using arrow keys to steer the ship and spacebar to shoot bullets
 
