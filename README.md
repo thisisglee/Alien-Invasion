@@ -21,6 +21,10 @@ The game initials the space craft to shoot down incoming aliens and the counter 
  ```
 2. After installing just use any code editor to edit the code.
 
+ ```
+    python3 alien_invasion.py
+ ```
+
 ## Credits
 Initially inspired by [Eric Matthes](https://ehmatthes.github.io/). Thank you so much for the amazing guidance.
 
