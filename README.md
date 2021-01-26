@@ -19,7 +19,7 @@ The game initials the space craft to shoot down incoming aliens and the counter 
  ```
     python3 -m pip install pygame
  ```
-2. After installing just use any code editor to edit the code.
+2. After installing just run the following command.
 
  ```
     python3 alien_invasion.py
